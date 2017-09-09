@@ -1,2 +1,4 @@
 # hello-world
-Part of teh new users tutorial
+Part of the new users tutorial
+
+Aso known as TallGuy ;)
